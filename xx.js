@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       https://gnust.rymooc.com/course/learn/17
 // @grant       none
-// @version     1.1
+// @version     1.0
 // @author      wy
 // @description 2022/10/29 23:31:37
 // ==/UserScript==
